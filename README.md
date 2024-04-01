@@ -9,3 +9,6 @@ will **NOT** work since it gets the *specific* path for the studio launcher, whi
 var pathString = @"%USERPROFILE%\AppData\Local\Roblox\Versions\version-d6943a5e6de04dfb\RobloxStudioLauncherBeta.exe";
 var filePath = Environment.ExpandEnvironmentVariables(pathString);
 ```
+
+
+*made with visual studio 2022 and .net framework (C#)*
