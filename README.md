@@ -2,7 +2,7 @@
 
 A project I made to begin to learn C#. This won't work, and it's totally useless.
 
-will **NOT** work since it gets the *specific* path for the studio launcher, which is a problem since roblox changes from folder to folder every new version.
+will **NOT** work 4 you since it gets the *specific* path for the studio launcher, which is a problem since roblox changes from folder to folder every new version.
 
 *file path:*
 ```cs
